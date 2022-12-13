@@ -5,12 +5,17 @@ This repository contains books (mostly in Chinese) on data science and machine l
 
 ## List of Books (to be continued...)
 
-- **`白面机器学习·**
+- **`百面机器学习·**
 
   - a tutorial book that helps you ace the machine learning engineer interviews
   - containing over 100 interview questions in areas including feature engineering, ML models, evlauations and etc.
   - written by MLEs from Hulu
 
-- **`白面机器学习·**
+- **`智能风控：Python金融风险管理与评分卡建模`**
+
+  - 
+
+
+- **`西瓜书`**
 
   - 
