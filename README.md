@@ -1,21 +1,14 @@
 # Machine Learning Books
 
-This repository contains books (mostly in Chinese) on data science and machine learning as well as my reading notes (including codes).
+This repository is a collection of the books and papers I have read on data science and machine learning as well as some nodes and codes of mine.
 
 
 ## List of Books (to be continued...)
 
 - **`百面机器学习`**
 
-  - a tutorial book that helps you ace the machine learning engineer interviews
+  - a tutorial book that helps you ace the machine learning interviews
   - containing over 100 interview questions in areas including feature engineering, ML models, evlauations and etc.
-  - written by MLEs from Hulu
+  - written by machine learning engineers from Hulu
 
-- **`智能风控：Python金融风险管理与评分卡建模`**
-
-  - 
-
-
-- **`西瓜书`**
-
-  - 
+tbc...
